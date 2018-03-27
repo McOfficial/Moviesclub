@@ -105,7 +105,13 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-1"
+          "_anchor": "msg-box2-1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
         },
         {
           "_inherit": "msg-box1",
@@ -137,7 +143,13 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-26"
+          "_anchor": "msg-box2-26",
+          "_styles": {
+            "H2": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
         }
       ]
     },

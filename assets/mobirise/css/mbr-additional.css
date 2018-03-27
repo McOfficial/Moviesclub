@@ -1,5 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+
 #ext_menu-0 .navbar-toggler {
   color: #000;
+}
+#msg-box2-1 H2 {
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box2-26 H2 {
+  font-family: 'Slabo 27px', serif;
 }
 #ext_menu-2 .navbar-toggler {
   color: #000;
